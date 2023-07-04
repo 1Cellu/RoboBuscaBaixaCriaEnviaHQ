@@ -30,7 +30,7 @@ static async Task Busca(string url, CancellationToken cancellationToken)
     // como o HtmlAgilityPack para extrair os links e acessá-los um por um
 
     // exemplo de uso do HtmlAgilityPack para extrair links de tags <a>
-    var htmlDoc = new HtmlAgilityPack.HtmlDocument();
+    var htmlDoc = new HtmlDocument();
     htmlDoc.LoadHtml(responseBody);
 
     var links = htmlDoc.DocumentNode.Descendants("a")
