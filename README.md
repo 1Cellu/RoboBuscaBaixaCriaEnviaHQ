@@ -1,4 +1,4 @@
-# BuscaHQs
+# Robo Busca HQ
 
 Esse foi um projeto onde eu queria fazer alguma coisa para solucionar um problema que eu possuia. Não está de acordo com os padrões de clean code que sigo no trabalho, justamente por ser um projeto que deveria ser simples, rápido e funcional. Gastei 3 horas fazendo ele, sendo que a maior parte do tempo foi pesquisando uma ferramenta de envio de email e aprendendo a utilizá-la. 
 
